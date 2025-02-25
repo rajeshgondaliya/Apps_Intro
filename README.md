@@ -12,7 +12,7 @@
   <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Customer%20App/3.PNG?raw=true" width="20%" />
 </p>
 
-#2️⃣ Restaurant Reporting App
+# 2️⃣ Restaurant Reporting App
 
 - Empower Restaurant with real-time insights. access sales, customer, inventory and employee reports from your smartphone, anytime, anywhere.
 
