@@ -40,7 +40,17 @@
 <p align="center">
  <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Klikster/1.png?raw=true" width="20%" />
  <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Klikster/2.png?raw=true" width="20%" />
- <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Klikster/3.png?raw=truee" width="20%" />
- <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Klikster/4.png?raw=truee" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Klikster/3.png?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Klikster/4.png?raw=true" width="20%" />
 </p>
 
+# 4️⃣ Navi-Mig App
+
+- Navi-mig is a location information app for particular services provider to user in which we have added map for location and language localization
+
+<p align="center">
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Navi-Mig/1.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Navi-Mig/2.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Navi-Mig/3.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Navi-Mig/4.PNG?raw=true" width="20%" />
+</p>
