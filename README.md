@@ -22,3 +22,13 @@
   <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Reporting/3.png?raw=true" width="20%" />
 </p>
 
+# 3️⃣ Aviator App
+
+- App designed for aviation students and admin. admin can create and manage flying schedule for students and student can maintain flying logs with admins
+
+<p align="center">
+  <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Aviator%20App/1.png?raw=true" width="20%" />
+  <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Aviator%20App/2.png?raw=true" width="20%" />
+  <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Aviator%20App/3.png?raw=true" width="20%" />
+  <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Aviator%20App/4.png?raw=true" width="20%" />
+</p>
