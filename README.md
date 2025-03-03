@@ -62,10 +62,10 @@
 - Bao Box experience better through our mobile app, book tables and games order food and beverages, buy event tickets and get huge member only discounts exclusively through the app
 
 <p align="center">
- <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/BaoBox/1.PNG?raw=true" width="20%" />
- <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/BaoBox/2.PNG?raw=true" width="20%" />
- <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/BaoBox/3.PNG?raw=true" width="20%" />
- <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/BaoBox/4.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/BaoBox/1.png?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/BaoBox/2.png?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/BaoBox/3.png?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/BaoBox/4.png?raw=true" width="20%" />
 </p>
 
 # 7️⃣ iDoor App
@@ -77,4 +77,27 @@
  <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/iDoor/2.PNG?raw=true" width="20%" />
  <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/iDoor/3.PNG?raw=true" width="20%" />
  <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/iDoor/4.PNG?raw=true" width="20%" />
+</p>
+
+# 8️⃣ MYR AI
+
+- We have developed software to simplify the management of workspaces and in particular the relationship between property managers and service providers.
+
+<p align="center">
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/MYR/1.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/MYR/2.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/MYR/3.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/MYR/4.PNG?raw=true" width="20%" />
+</p>
+
+# 9️⃣ NWO State App
+
+- PUBLICAE (NGO) deploys the worlds first politically neutral social media platform driven by POLITICOIN (PBLC) Ad-Tech which rewards citizens with New
+World Order (STATE) "tokens" of appreciation for their valuable attention.
+
+<p align="center">
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/State/1.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/State/2.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/State/3.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/State/4.PNG?raw=true" width="20%" />
 </p>
