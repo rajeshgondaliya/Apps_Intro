@@ -73,10 +73,10 @@
 - iDoor is a smart access system. it makes your phone a key to your front door. Share lock with family members and you can configure fingerprints on your lock through this app
 
 <p align="center">
- <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/iDoor/1.png?raw=true" width="20%" />
- <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/iDoor/2.png?raw=true" width="20%" />
- <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/iDoor/3.png?raw=true" width="20%" />
- <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/iDoor/4.png?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/iDoor/1.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/iDoor/2.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/iDoor/3.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/iDoor/4.PNG?raw=true" width="20%" />
 </p>
 
 # 8️⃣ MYR AI
@@ -96,8 +96,8 @@
 World Order (STATE) "tokens" of appreciation for their valuable attention.
 
 <p align="center">
- <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/State/1.PNG?raw=true" width="20%" />
- <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/State/2.PNG?raw=true" width="20%" />
- <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/State/3.PNG?raw=true" width="20%" />
- <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/State/4.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/State/1.png?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/State/2.png?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/State/3.png?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/State/4.png?raw=true" width="20%" />
 </p>
