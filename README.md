@@ -1,4 +1,4 @@
-# 📱 My Developed Apps
+#  Hi, I'm Rajesh Gondaliya 👋
 
  Here are some of the amazing apps I have worked on
 
