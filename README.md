@@ -46,7 +46,7 @@
  <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Klikster/4.png?raw=true" width="20%" />
 </p>
 
-# 4️⃣ Navi-Mig App
+# 5️⃣ Navi-Mig App
 
 - Navi-mig is a location information app for particular services provider to user in which we have added map for location and language localization
 
@@ -55,4 +55,26 @@
  <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Navi-Mig/2.PNG?raw=true" width="20%" />
  <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Navi-Mig/3.PNG?raw=true" width="20%" />
  <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/Navi-Mig/4.PNG?raw=true" width="20%" />
+</p>
+
+# 6️⃣ BaoBox App
+
+- Bao Box experience better through our mobile app, book tables and games order food and beverages, buy event tickets and get huge member only discounts exclusively through the app
+
+<p align="center">
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/BaoBox/1.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/BaoBox/2.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/BaoBox/3.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/BaoBox/4.PNG?raw=true" width="20%" />
+</p>
+
+# 7️⃣ iDoor App
+
+- iDoor is a smart access system. it makes your phone a key to your front door. Share lock with family members and you can configure fingerprints on your lock through this app
+
+<p align="center">
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/iDoor/1.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/iDoor/2.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/iDoor/3.PNG?raw=true" width="20%" />
+ <img src="https://github.com/rajeshgondaliya/Apps_Intro/blob/main/Apps/iDoor/4.PNG?raw=true" width="20%" />
 </p>
